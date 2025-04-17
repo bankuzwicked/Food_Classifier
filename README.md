@@ -61,3 +61,9 @@ Built using:
 - 🧪 Hugging Face Hub
 
 ---
+
+
+
+![huggingface co_bankuzwicked_Foods-Around-the-World](https://github.com/user-attachments/assets/a8107892-fd39-437e-ad11-0b3e5b5b3b7c)
+
+---
